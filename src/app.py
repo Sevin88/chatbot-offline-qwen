@@ -1,5 +1,5 @@
 import streamlit as st
-import utils
+import src.utils as utils
 
 st.title(":llama: qwen2.5 AI")
 
